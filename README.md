@@ -8,7 +8,7 @@ Scripts are tested for functionality on an Ubuntu 24.04.04 server running in Vir
 #### user_remove.sh
 Note: Script must be run as root
 ---
-##### Usage:
+#### Usage:
 `./user_remove.sh <FILE NAME>`
 
 ## Misc.
