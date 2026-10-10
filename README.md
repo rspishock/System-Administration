@@ -6,4 +6,4 @@ A collection of system administration scripts
 **Script must be run as root**
 ---
 #### Usage:
-`./ user_remove.sh <FILE NAME>`
+`./user_remove.sh <FILE NAME>`
